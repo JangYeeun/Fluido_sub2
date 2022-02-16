@@ -1,0 +1,152 @@
+*{margin: 0; padding: 0;}
+ul{list-style: none;}
+a{ text-decoration: none; color: inherit;
+}
+body{
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size:14px;
+    line-height:24px ;
+    color: #000;
+    min-width:1350px;
+}
+/*header*/
+
+#head{
+    height: 157px;
+    background-color: #34bec1;
+
+}
+#head_inner{
+    width: 1320px;
+    margin: auto;
+}
+
+.hleft{
+    float: left;
+    padding-top:69px;
+}
+
+.hright{
+    float: right;
+    color: white;
+}
+
+.hright>li{
+    float: left;
+    padding-top:100px;
+   
+    padding-right:120px;
+       color: white;
+}
+.main_banner{
+    margin: auto;
+}
+
+
+.box2{
+height: 2100px;
+}
+.box2_inner{
+    margin: auto;
+    width: 1320px;
+}
+
+.left_text{
+    padding-top: 330px;
+    float: left;
+    padding-left: 75px;
+    height: 596px;
+    box-sizing: border-box;
+}
+
+.left_text_mini{
+  padding-top: 46px;
+}
+.right_img{
+    padding-top: 153px;
+    float: right;
+    height: 596px;
+    box-sizing: border-box;
+}
+
+.left_img{
+    padding-top: 206px;
+   float: left;
+   padding-left: 75px;
+   height: 648px;
+   box-sizing: border-box;
+}
+.right_text{
+    float: right;
+    padding-top: 305px;
+    height: 648px;
+    box-sizing: border-box;
+}
+.right_text_mini{
+    padding-top: 46px;
+}
+
+.left_text1{
+    padding-top: 374px;
+    float: left;
+    padding-left: 75px;
+    height: 605px;
+    box-sizing: border-box;
+}
+.left_text1_mini{
+    padding-top:46px;
+}
+
+.right_img2{
+    float: right;
+    padding-top: 234px;
+    height: 605px;
+    box-sizing: border-box;
+}
+
+/*footer*/
+
+#footer{
+    background-color:#34bec1 ;
+    height: 230px;
+    color: white;
+    
+}
+
+.footer_inner{
+    margin: auto;
+    width: 1320px;
+   text-align: center;  
+}
+.text_left{
+    padding-top: 50px;
+    float: left;
+    text-align: left;
+}
+
+.img_right{
+    padding-top: 138px;
+    float: right;
+    padding-right: 145px;
+    padding-bottom: 20px;
+}
+
+.whitefoot{
+    color: white;
+    font-size: 18px;
+}
+
+.f1{
+
+}
+
+.f2{
+padding-left: 20px;
+padding-bottom: 2px;
+}
+.f3{
+padding-left: 20px;
+}
+
+
+
